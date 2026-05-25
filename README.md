@@ -51,3 +51,6 @@ OpenWeatherMap に登録し、無料のAPIキー（Current Weather & Forecast用
 
 3. 書き込み
 Arduino IDEで weather_sketch.ino を開き、ボードを「M5CoreInk」に設定して書き込みます。
+
+## ライセンス
+このプロジェクトはApache 2.0ライセンスのもとで公開されています。また、images.hのイラストの著作権はnzp89(著者)に属します。
